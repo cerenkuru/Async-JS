@@ -1,0 +1,24 @@
+[
+
+
+    {
+        "name": "Ceren Kuru",
+        "department": "Front-End",
+        "salary": 35000
+    },
+
+    {
+        "name": "Koray Kuru",
+        "department": "Front-End",
+        "salary": 40000
+    },
+
+    {
+        "name": "Ceren Ay",
+        "department": "Front-End",
+        "salary": 41000
+    }
+
+
+
+]
